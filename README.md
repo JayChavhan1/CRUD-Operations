@@ -3,7 +3,7 @@
 This project implements Create, Read, Update, and Delete (CRUD) operations for managing user data.
 
 ## Interface
-![image](ui.png)
+[![image](ui.png)](https://github.com/atharvdange618/webd/blob/main/Beginner%20Projects/CRUD%20Operations/ui.png?raw=true)
 
 ## Overview
 
