@@ -58,6 +58,5 @@ The application provides a user interface to:
 
 If you have any questions or suggestions, please feel free to contact me:
 
-- Email: atharvdange.dev@gmail.com
-- LinkedIn: [Atharv Dange](http://linkedin.com/in/atharvdange)
-- Twitter: [@atharvdangedev](https://twitter.com/atharvdangedev)
+- Email: jaychavhan741@gmail.com
+- LinkedIn: [Jay Chavhan](https://www.linkedin.com/in/jaychavhan74/)
